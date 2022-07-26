@@ -1,0 +1,17 @@
+{
+    "name": "Kaal-mention-bot",
+    "logo": "https://telegra.ph/file/be526220ab16ee5504652.jpg", 
+    "description": "A simple mention all for telegram.",
+    "env": {
+        "TOKEN": {
+            "description": "Enter bot token."
+        },
+        "APP_ID": {
+            "description": "Get this value from my.telegram.org! Please do not steal."
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org! Please do not steal."
+        }
+    },
+    "buildpacks": [{"url": "heroku/python"}]
+}
