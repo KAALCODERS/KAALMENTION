@@ -15,5 +15,5 @@ This is automated telegram user mentioning bot which will mention any message in
 - Telegram Library: Telethon.
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GARWMISHRA/KAALMENTION)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KAALCODERS/KAALMENTION)
 
